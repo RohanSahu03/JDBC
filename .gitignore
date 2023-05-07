@@ -1,6 +1,6 @@
 # ignore ALL files in ANY directory named .settings
 .settings/
 
-.classpath
-.project
-.gitignore
+*.classpath
+*.project
+*.gitignore
